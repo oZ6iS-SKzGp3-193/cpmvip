@@ -1,0 +1,7 @@
+setuptools
+colr
+httpx
+wget
+pystyle
+requests
+gitpython
